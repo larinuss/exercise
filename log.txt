@@ -1,0 +1,11 @@
+commit e1da02fa4f0e14228557d8bfcb33e8af91a07a7a
+Author: larinuss <rojin.lari@gmail.com>
+Date:   Wed Sep 5 15:13:24 2018 +0200
+
+    now have to do both
+
+commit 161833685ad379accc79fd811ccf548769f1a67c
+Author: larinuss <rojin.lari@gmail.com>
+Date:   Wed Sep 5 15:10:09 2018 +0200
+
+    seeing if it worked
